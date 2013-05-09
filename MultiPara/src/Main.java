@@ -10,5 +10,6 @@ public class Main {
 		System.out.println("Tommy was here!");
 		System.out.println("Oli was here, too!");
 		System.out.println("Tommy was here first!");
+		System.out.println("Mikkel is here now.");
 	}
 }
