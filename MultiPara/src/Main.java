@@ -8,5 +8,6 @@ public class Main {
 		System.out.println("The main!");
 		System.out.println("Added KAWA");
 		System.out.println("Tommy was here!");
+		System.out.println("Oli was here, too!");
 	}
 }
